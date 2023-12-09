@@ -15,8 +15,8 @@
 
     isMobile: window.matchMedia('(max-width: 768px)').matches,
 
-    playButton: document.querySelector('#play'),
-    pauseButton: document.querySelector('#pause'),
+    // playButton: document.querySelector('#play'),
+    // pauseButton: document.querySelector('#pause'),
 
     // Array of objects containing the src and type
     // of different video formats to add
